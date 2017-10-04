@@ -1,0 +1,13 @@
+D:\учеба\c++\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\учеба\c++\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+D:\учеба\c++\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\учеба\c++\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\учеба\c++\ConsoleApplication1\ConsoleApplication1\bin\Debug\MongoDB.Bson.dll
+D:\учеба\c++\ConsoleApplication1\ConsoleApplication1\bin\Debug\MongoDB.Driver.Core.dll
+D:\учеба\c++\ConsoleApplication1\ConsoleApplication1\bin\Debug\MongoDB.Driver.dll
+D:\учеба\c++\ConsoleApplication1\ConsoleApplication1\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\учеба\c++\ConsoleApplication1\ConsoleApplication1\bin\Debug\MongoDB.Bson.xml
+D:\учеба\c++\ConsoleApplication1\ConsoleApplication1\bin\Debug\MongoDB.Driver.xml
+D:\учеба\c++\ConsoleApplication1\ConsoleApplication1\bin\Debug\MongoDB.Driver.Core.xml
+D:\учеба\c++\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\учеба\c++\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
