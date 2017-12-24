@@ -5,11 +5,20 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:WpfApp1"
         mc:Ignorable="d"
-        Title="Window1" Height="300" Width="300">
+        Title="Incomes and expanses" Height="300" Width="300">
     <Grid>
         <TextBox x:Name="t_Am" HorizontalAlignment="Left" Height="23" Margin="90,59,0,0" TextWrapping="Wrap" Text="0" VerticalAlignment="Top" Width="120" RenderTransformOrigin="0.492,0.525"/>
         <Button x:Name="but1" Content="Посчитать" HorizontalAlignment="Left" Margin="116,125,0,0" VerticalAlignment="Top" Width="75" Click="Button_Click"/>
-        <DatePicker x:Name="today" HorizontalAlignment="Left" Margin="208,236,0,0" VerticalAlignment="Top" IsEnabled="False"/>
+        <DatePicker x:Name="today" HorizontalAlignment="Left" Margin="294,236,-0.4,0" VerticalAlignment="Top" IsEnabled="False" RenderTransformOrigin="0.5,0.5" Width="0">
+            <DatePicker.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform ScaleX="-1"/>
+                    <SkewTransform/>
+                    <RotateTransform/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </DatePicker.RenderTransform>
+        </DatePicker>
         <Label Content="Сумма,которую нужно накопить" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="58,22,0,0"/>
 
     </Grid>

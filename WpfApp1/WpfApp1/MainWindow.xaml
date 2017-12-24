@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:WpfApp1"
         mc:Ignorable="d"
-        Title="MainWindow" Height="350" Width="525">
+        Title="Incomes and expenses" Height="350" Width="525">
     <Grid Margin="0,0,0.4,8.8">
         <Button x:Name="button" Content="Добавить доходы" HorizontalAlignment="Left" Margin="200,44,0,0" VerticalAlignment="Top" Width="110" RenderTransformOrigin="1.187,0.583" Click="button_Click" Height="23">
             <Button.RenderTransform>
@@ -25,6 +25,7 @@
         <CheckBox x:Name="cb" Content="Зарплата" HorizontalAlignment="Left" Margin="59,22,0,0" VerticalAlignment="Top" Checked="CheckBox_Checked"/>
         <Button x:Name="Update" Content="Обновить" HorizontalAlignment="Left" Margin="223,179,0,0" VerticalAlignment="Top" Width="75" RenderTransformOrigin="-0.28,-0.49" Click="Button_Click_1"/>
         <Button Content="Добавить расходы" HorizontalAlignment="Left" Margin="201,79,0,0" VerticalAlignment="Top" Width="110" Height="23" RenderTransformOrigin="0.211,0.252" Click="Button_Click_2"/>
+        <Button Content="Cтатистика" HorizontalAlignment="Left" Margin="192,263,0,0" VerticalAlignment="Top" Width="140" Click="Button_Click_3"/>
 
     </Grid>
 </Window>

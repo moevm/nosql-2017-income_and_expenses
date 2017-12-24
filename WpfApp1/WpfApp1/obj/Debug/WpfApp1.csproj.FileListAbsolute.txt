@@ -40,3 +40,5 @@ D:\expenses\WpfApp1\WpfApp1\bin\Debug\SharpDX.DXGI.xml
 D:\expenses\WpfApp1\WpfApp1\bin\Debug\SharpDX.Mathematics.xml
 D:\expenses\WpfApp1\WpfApp1\obj\Debug\Window1.g.cs
 D:\expenses\WpfApp1\WpfApp1\obj\Debug\Window1.baml
+D:\expenses\WpfApp1\WpfApp1\obj\Debug\Window2.g.cs
+D:\expenses\WpfApp1\WpfApp1\obj\Debug\Window2.baml

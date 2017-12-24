@@ -576,9 +576,16 @@ namespace WpfApp1
             var result = await col.UpdateOneAsync(filterOr, update);
 
         }
+
+        private void Button_Click_3(object sender, RoutedEventArgs e)
+        {
+            Window stat = new Window2();
+            stat.Owner = this;
+            stat.Show();
+        }
         //private void Button_Click_3(object sender, RoutedEventArgs e)
-      //  {
+        //  {
         //    amass(textBox.Text);
-       // }
+        // }
     }
 }
